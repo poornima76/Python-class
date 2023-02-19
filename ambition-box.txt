@@ -1,0 +1,180 @@
+Company name: TCS
+Number of reviews:  51.5 
+Company ratings: 3.9
+Company info: Public
+Company age: 55
+--------------------------------------------------
+Company name: Accenture
+Number of reviews:  32.8 
+Company ratings: 4.1
+Company info: Public
+Company age: 34
+--------------------------------------------------
+Company name: Cognizant
+Number of reviews:  30.3 
+Company ratings: 3.9
+Company info: Private
+Company age: 29
+--------------------------------------------------
+Company name: ICICI Bank
+Number of reviews:  34.2 
+Company ratings: 4.0
+Company info: Public
+Company age: 29
+--------------------------------------------------
+Company name: HDFC Bank
+Number of reviews:  40.1 
+Company ratings: 4.0
+Company info: Public
+Company age: 29
+--------------------------------------------------
+Company name: Wipro
+Number of reviews:  29.5 
+Company ratings: 3.9
+Company info: Public
+Company age: 78
+--------------------------------------------------
+Company name: Infosys
+Number of reviews:  29.1 
+Company ratings: 3.9
+Company info: Public
+Company age: 42
+--------------------------------------------------
+Company name: Capgemini
+Number of reviews:  24.4 
+Company ratings: 3.9
+Company info: Public
+Company age: 56
+--------------------------------------------------
+Company name: Tech Mahindra
+Number of reviews:  22 
+Company ratings: 3.7
+Company info: Public
+Company age: 37
+--------------------------------------------------
+Company name: Genpact
+Number of reviews:  19.8 
+Company ratings: 4.0
+Company info: Public
+Company age: 26
+--------------------------------------------------
+Company name: HCLTech
+Number of reviews:  18.9 
+Company ratings: 3.8
+Company info: Public
+Company age: 32
+--------------------------------------------------
+Company name: Amazon
+Number of reviews:  19 
+Company ratings: 4.3
+Company info: Public
+Company age: 29
+--------------------------------------------------
+Company name: Axis Bank
+Number of reviews:  18.9 
+Company ratings: 3.9
+Company info: Public
+Company age: 30
+--------------------------------------------------
+Company name: Concentrix Corpo...
+Number of reviews:  15.3 
+Company ratings: 4.0
+Company info: Public
+Company age: 40
+--------------------------------------------------
+Company name: IBM
+Number of reviews:  15.5 
+Company ratings: 4.2
+Company info: Public
+Company age: 112
+--------------------------------------------------
+Company name: Reliance jio
+Number of reviews:  15 
+Company ratings: 4.0
+Company info: Public
+Company age: 16
+--------------------------------------------------
+Company name: Larsen & Toubro ...
+Number of reviews:  24.5 
+Company ratings: 4.1
+Company info: Public
+Company age: 77
+--------------------------------------------------
+Company name: HDB Financial Se...
+Number of reviews:  13.6 
+Company ratings: 4.0
+Company info: Private
+Company age: 16
+--------------------------------------------------
+Company name: Vodafone Idea
+Number of reviews:  13.3 
+Company ratings: 4.2
+Company info: Public
+Company age: 5
+--------------------------------------------------
+Company name: Teleperformance
+Number of reviews:  14.7 
+Company ratings: 3.6
+Company info: Private
+Company age: 45
+--------------------------------------------------
+Company name: Reliance Retail
+Number of reviews:  17 
+Company ratings: 4.1
+Company info: Private
+Company age: 17
+--------------------------------------------------
+Company name: Kotak Mahindra B...
+Number of reviews:  13.7 
+Company ratings: 3.9
+Company info: Public
+Company age: 20
+--------------------------------------------------
+Company name: Deloitte
+Number of reviews:  10.5 
+Company ratings: 4.1
+Company info: Private
+Company age: 178
+--------------------------------------------------
+Company name: Reliance Industr...
+Number of reviews:  45.2 
+Company ratings: 4.1
+Company info: Public
+Company age: 50
+--------------------------------------------------
+Company name: Bharti Airtel
+Number of reviews:  12.5 
+Company ratings: 4.1
+Company info: Public
+Company age: 28
+--------------------------------------------------
+Company name: BYJU'S
+Number of reviews:  13.4 
+Company ratings: 3.5
+Company info: Private
+Company age: 12
+--------------------------------------------------
+Company name: Tata Motors
+Number of reviews:  12.1 
+Company ratings: 4.1
+Company info: Public
+Company age: 78
+--------------------------------------------------
+Company name: Flipkart
+Number of reviews:  11.8 
+Company ratings: 4.2
+Company info: Public
+Company age: 16
+--------------------------------------------------
+Company name: WNS
+Number of reviews:  7.1 
+Company ratings: 3.7
+Company info: Private
+Company age: 27
+--------------------------------------------------
+Company name: Mahindra & Mahin...
+Number of reviews:  39.7 
+Company ratings: 3.9
+Company info: Public
+Company age: 78
+--------------------------------------------------

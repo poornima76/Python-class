@@ -1,0 +1,90 @@
+Stable Attribution (stableattribution.com)
+https://www.stableattribution.com
+
+Guinea worm disease reaches all-time low (cartercenter.org)
+https://www.cartercenter.org/news/pr/2023/2022-guinea-worm-worldwide-cases-announcement.html
+
+PhpBB 3.3.10 (phpbb.com)
+https://www.phpbb.com/community/viewtopic.php?t=2635986
+
+Ghost boat with GPS leads father-son duo to man overboard (garmin.com)
+https://www.garmin.com/en-US/blog/marine/ghost-boat-with-garmin-gps-leads-father-son-duo-to-man-overboard/
+
+If you're happy with OpenBSD, probably any computer is good enough (muezza.ca)
+http://muezza.ca/thoughts/openbsd_imac_g4/
+
+As a US Navy fighter pilot, I witnessed unidentified anomalous phenomena (thehill.com)
+https://thehill.com/opinion/national-security/3843075-as-a-us-navy-fighter-pilot-i-witnessed-unidentified-anomalous-phenomena-uap-congress-must-reveal-the-truth-to-the-american-people/
+
+Artificial intelligence just lost a leader (rjlipton.wpcomstaging.com)
+https://rjlipton.wpcomstaging.com/2023/02/05/artificial-intelligence-just-lost-a-leader/
+
+The fraudulent claims made by IBM about Watson and AI (2021) (rogerschank.com)
+https://www.rogerschank.com/fraudulent-claims-made-by-IBM-about-Watson-and-AI
+
+FreeCAD Day 2023: Report and continued discussion (freecad.org)
+https://forum.freecad.org/viewtopic.php?t=75768
+
+The creative sweet spot of dreaming (nautil.us)
+https://nautil.us/narcoleptic-naps-are-a-creative-sweet-spot-259482/
+
+7.8 magnitude earthquake hits Turkiye (usgs.gov)
+https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/executive
+
+Fulcrum: an ergo-mechanical split keyboard with extra thumb functionality (github.com/dschil138)
+https://github.com/dschil138/Fulcrum
+
+The rise of universities’ diversity bureaucrats (2018) (economist.com)
+https://www.economist.com/the-economist-explains/2018/05/08/the-rise-of-universities-diversity-bureaucrats
+
+Conventional Commits: Spec for adding human and machine meaning to commit msgs (conventionalcommits.org)
+https://www.conventionalcommits.org/en/v1.0.0/
+
+Finland’s most-wanted hacker nabbed in France (krebsonsecurity.com)
+https://krebsonsecurity.com/2023/02/finlands-most-wanted-hacker-nabbed-in-france/
+
+South Pole Topography (brr.fyi)
+https://brr.fyi/posts/south-pole-topography
+
+OneSignal (YC S11) Is Hiring Engineers (onesignal.com)
+https://onesignal.com/careers
+
+Announcing Masonry 0.1, and my vision for Rust UI (poignardazur.github.io)
+https://poignardazur.github.io//2023/02/02/masonry-01-and-my-vision-for-rust-ui/
+
+How to build a Linux-based wireless router out of spare parts (1998) (rage.net)
+http://www.rage.net/wireless/wireless_howto.html
+
+The cult of conformity in Silicon Valley [video] (youtube.com)
+https://www.youtube.com/watch?v=ia7IKW0yuG0
+
+All Circuits are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995) (calpoly.edu)
+https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse
+
+A patch to enable Windows Subsystem for Android to run on Windows 10 (github.com/cinit)
+https://github.com/cinit/WSAPatch
+
+Gattaca is still pertinent 25 years later (nature.com)
+https://www.nature.com/articles/s41588-022-01242-5
+
+Shel Silverstein and The Missing Piece Meets the Big O (butwhatfor.com)
+https://newsletter.butwhatfor.com/p/takeaway-tuesday-the-missing-piece
+
+The WiC64 Brings Classic Commodores Online, Google Maps Included (hackaday.com)
+https://hackaday.com/2023/02/04/the-wic64-brings-classic-commodores-online-google-maps-included/
+
+Intel’s Dunnington: Core 2 Goes Dun Dun Dun (chipsandcheese.com)
+https://chipsandcheese.com/2023/02/05/intels-dunnington-core-2-goes-dun-dun-dun/
+
+Archiving in the time of streaming (textfiles.com)
+http://ascii.textfiles.com/archives/5443
+
+Don’t teach during code reviews (michaelagreiler.com)
+https://www.michaelagreiler.com/teach-during-code-reviews/
+
+A Brief History of Parafilm (cell.substack.com)
+https://cell.substack.com/p/parafilm
+
+The Circumnavigators (2017) (qrp-labs.com)
+https://qrp-labs.com/circumnavigators.html
+
