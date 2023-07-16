@@ -2,7 +2,9 @@
 # print(float(True))
 # print(bool([]))
 # print(bool(''))
+# >>> False
 # print(bool('  '))
+# >>> True
 # print(bool(0))
 # print(bool(4))
 # print(bool(0.000009))

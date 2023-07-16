@@ -15,3 +15,19 @@ soup = BeautifulSoup(res.text, 'html.parser')
 # with open('news.txt', 'w') as f:
 #     for data in news:
 #         f.write(data.text + '\n' + data.find('a').get('href') + '\n' + '\n')
+
+
+
+# import requests
+# from bs4 import BeautifulSoup
+
+# res = requests.get('https://news.ycombinator.com/newcomments')
+# soup = BeautifulSoup(res.text, 'html.parser')
+# com = soup.find_all('tbody')
+# id = soup.find_all('span', class_="comhead")
+# comment = soup.find_all('span', class_='commtext c00')
+# with open('ntest.txt','w') as f:
+#     for data in id:
+#         f.write('user: ' + data.find('a', class_='hnuser').text +'\n')
+#     for d in comment:
+#         f.write('comment: ' + d.text)
